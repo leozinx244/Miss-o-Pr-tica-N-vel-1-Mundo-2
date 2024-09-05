@@ -1,0 +1,248 @@
+.logo{
+   width: 100px;
+   height:100px;
+   float:left;
+   position:relative;
+   left:32%;
+   top:15px;
+}
+nav{
+   font-size: 23px;
+}
+main{
+   padding-top: 2%;
+   text-align: center;
+   font-size: 25px;
+   position:static;
+   line-height:0.8
+}
+footer{
+   background-color: black;
+   width: 100%;
+   height:6%;
+   position:fixed;
+   bottom:0px;
+}
+.p1{
+   padding-top: 12%;
+   text-align: center;
+   font-size: 30px;
+   position:static;
+}
+.rodape{
+   color: white;
+   padding-top: 12px;
+   text-align: center;
+   font-size: 23px;
+}
+body{
+   margin: 0%;
+   background-color:bisque;
+}
+ul{
+   background-color: rgb(53, 52, 52);
+   list-style-type: none;
+   padding: 0;
+   margin: 0;
+   overflow: hidden;
+}
+li{
+   float:left;
+}
+li a{
+   display:inline-block;
+   color:darkgray;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+li a:hover{
+   color:white;
+}
+.rs{
+   display: flex;
+   flex-flow:row wrap;
+}
+.canjica{
+   position: relative;
+   top:7%;
+   width: 80%;
+}
+.canjica-t{
+   position:relative;
+   top:20px
+}
+.canjica-d{
+   background-color: rgb(255, 205, 141);
+   height: 800px;
+   width: 32%;
+   margin-left: 1%;
+}
+.ol{
+   padding-top: 50px;
+   padding-left: 30%;
+}
+hr{
+   position: relative;
+   top: 40px;
+   width: 90%;
+}
+.test1{
+   position:relative;
+   top:3%;
+}
+.Pao{
+   background-color: rgb(255, 205, 141);
+   height: 800px;
+   width: 32%;
+   margin-left: 1%;
+}
+.Paot{
+   position:relative;
+   top:20px
+}
+.Paof{
+   position: relative;
+   top:7%;
+   width: 80%;
+}
+.Strogonoff{
+   background-color: rgb(255, 205, 141);
+   height: 800px;
+   width: 32%;
+   margin-left: 1%;
+}.Strogonofft{
+   position:relative;
+   top:20px
+}
+.Strogonofff{
+   position: relative;
+   top:7%;
+   width: 80%;
+}
+.h1-c{
+   text-align: left;
+   margin-left:1%;
+   font-size: 46px;
+   line-height: 0.0;
+}
+.col{
+   text-align: left;
+   margin-left: 1%;
+}
+
+.col input.form-control{
+   width: 55%;
+   position:relative;
+   left:12%;
+   height: 45px;
+   border-radius: 7px;
+   border: transparent;
+}
+.form-group{
+   font-size: 23px;
+   text-align: left;
+   margin-left: 1%;
+}
+.form-group input.form-control{
+   width: 55%;
+   position:relative;
+   left:12%;
+   height: 45px;
+   border-radius: 7px;
+   border: transparent;
+}
+.col-c{
+   text-align: left;
+   margin-left: 1%;
+   font-size: 26px;
+}
+.col-c input.form-control{
+   width: 27%;
+   position:relative;
+   left:13%;
+   height: 45px;
+   border-radius: 7px;
+   border: transparent;
+}
+.col-r{
+   text-align: left;
+   margin-left: 1%;
+   font-size: 29px;
+}
+.col-r input.form-control{
+   width: 55%;
+   position:relative;
+   left:13%;
+   height: 45px;
+   border-radius: 7px;
+   border: transparent;
+}
+.col-n{
+   text-align: left;
+   margin-left: 1%;
+   font-size: 31px;
+}
+.col-n input.form-control{
+   width: 17%;
+   position:relative;
+   left:14%;
+   height: 45px;
+   border-radius: 7px;
+   border: transparent
+}
+.col-n label.col-p{
+   position:relative;
+   left:15%;
+   font-size: 27px;
+}
+.col-n input.form-control1{
+   width: 22%;
+   position:relative;
+   left:18%;
+   height: 45px;
+   border-radius: 7px;
+   border: transparent
+}
+.col-d{
+   text-align: left;
+   margin-left: 1%;
+   font-size: 27px;
+}
+.col-d input.form-control{
+   width: 32%;
+   position:relative;
+   left:11%;
+   height: 45px;
+   border-radius: 7px;
+   border: transparent
+}.col-d label.col-u{
+   position:relative;
+   left:13%;
+   font-size: 25px;
+}
+.col-d input.form-control2{
+   width: 14%;
+   position:relative;
+   left:17%;
+   height: 45px;
+   border-radius: 7px;
+   border: transparent;
+}
+.row{
+   line-height:3.2;
+}
+button{
+   background-color: rgb(53, 52, 52);
+   color: white;
+   font-size: 19px;
+   width: 14%;
+   position:relative;
+   left:23%;
+   height: 45px;
+   border-radius: 7px;
+   border: transparent;
+}
+
+
+
+
